@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "258641804788",
+    "project_id": "uberclone-27f17",
+    "storage_bucket": "uberclone-27f17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258641804788:android:5abf4ae4325f15c3118da1",
+        "android_client_info": {
+          "package_name": "br.com.tauaferreira.uberclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258641804788-cqa3nrcqblltaek81d0h1quuoi1f3ebf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTts9AN1_UzwA58XzCpGmpFxcDg_hai7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258641804788-cqa3nrcqblltaek81d0h1quuoi1f3ebf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
