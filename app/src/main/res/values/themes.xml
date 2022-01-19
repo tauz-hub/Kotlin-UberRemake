@@ -16,6 +16,6 @@
 
     <style name="SplashTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="android:windowFullscreen">true</item>
-        <item name="android:windowBackground"></item>
+        <item name="android:windowBackground">@drawable/rider_splash_screen</item>
     </style>
 </resources>
