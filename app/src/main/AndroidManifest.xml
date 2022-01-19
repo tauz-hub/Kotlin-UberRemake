@@ -10,6 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.UberClone">
         <activity
+            android:theme="@style/SplashTheme"
             android:name=".SplashScreenActivity"
             android:exported="true">
             <intent-filter>
